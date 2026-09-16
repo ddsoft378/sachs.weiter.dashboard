@@ -5,7 +5,7 @@
    Ziele (goals, followerGoal, goals2026) werden dabei bewahrt.
    ============================================================ */
 window.SW_DATA = {
-  updated: "2026-09-14",
+  updated: "2026-09-15",
   monthLabel: "September 2026",
 
   goals: { followersTotal: 200000, viewsMonthly: 10000000 },
@@ -13,34 +13,34 @@ window.SW_DATA = {
   cities: [
     {
       key:"dresden", name:"Dresden",
-      followers:91300, _monthStartFollowers:90777, followerGoal:100000,
-      viewsMonthly:4053286, newThisMonth:523, deltaViewsPct:0,
+      followers:91365, _monthStartFollowers:90777, followerGoal:100000,
+      viewsMonthly:4053286, newThisMonth:588, deltaViewsPct:0,
       erreichteKonten:387477, interaktionen:138180,
-      newestPost:{typ:"reel",code:"DdOTA48KoMM",likes:631,comments:2,shares:7},
+      newestPost:{typ:"reel",code:"DdRUgm7McFN",likes:663,comments:8,shares:0},
       goals2026:["100.000 Follower","Dresden-Website live","Große Aktion (Müllsammeln, Wanderung)"]
     },
     {
       key:"leipzig", name:"Leipzig",
-      followers:28200, _monthStartFollowers:27347, followerGoal:35000,
-      viewsMonthly:847304, newThisMonth:853, deltaViewsPct:0,
+      followers:28319, _monthStartFollowers:27347, followerGoal:35000,
+      viewsMonthly:847304, newThisMonth:972, deltaViewsPct:0,
       erreichteKonten:144816, interaktionen:29346,
-      newestPost:{typ:"p",code:"DdPHai-grfv",likes:159,comments:7,shares:1},
+      newestPost:{typ:"p",code:"DdRnF6SAg83",likes:117,comments:55,shares:0},
       goals2026:["35.000 Follower","Mehr Ausflüge, Unternehmungen & Gratis-Tipps","Dauerhaft passende Kooperationspartner"]
     },
     {
       key:"chemnitz", name:"Chemnitz",
-      followers:24300, _monthStartFollowers:23837, followerGoal:30000,
-      viewsMonthly:1127144, newThisMonth:463, deltaViewsPct:0,
+      followers:24333, _monthStartFollowers:23837, followerGoal:30000,
+      viewsMonthly:1127144, newThisMonth:496, deltaViewsPct:0,
       erreichteKonten:174927, interaktionen:26500,
-      newestPost:{typ:"p",code:"DdO8KcPjmta",likes:174,comments:1,shares:2},
+      newestPost:{typ:"p",code:"DdRh6rEDmjm",likes:450,comments:0,shares:0},
       goals2026:["30.000 Follower","Team ausbauen","Content-Vielfalt & neue Gesichter etablieren"]
     },
     {
       key:"erfurt", name:"Erfurt",
-      followers:20900, _monthStartFollowers:19958, followerGoal:25000,
-      viewsMonthly:1218006, newThisMonth:942, deltaViewsPct:0,
+      followers:20917, _monthStartFollowers:19958, followerGoal:25000,
+      viewsMonthly:1218006, newThisMonth:959, deltaViewsPct:0,
       erreichteKonten:179658, interaktionen:57315,
-      newestPost:{typ:"reel",code:"DdMQii8qfhT",likes:223,comments:2,shares:0},
+      newestPost:{typ:"p",code:"DdRhAKziFXP",likes:80,comments:24,shares:0},
       goals2026:["25.000 Follower","Zur Go-to-Seite der Stadt werden","Erste passende Kooperationspartner"]
     }
   ]
